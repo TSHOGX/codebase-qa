@@ -1,0 +1,7 @@
+__pycache__
+code_index
+code_index_metadata.json
+code_index_model_info.json
+.env
+
+debug*
